@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FrequencyDictionary": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\sarik\\Desktop\\SampleWin1252.txt\"\r\n\"C:\\Users\\sarik\\Desktop\\SampleWin1252_Results.txt\""
+    }
+  }
+}
