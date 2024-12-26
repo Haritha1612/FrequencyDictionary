@@ -1,5 +1,4 @@
-Application Description: 
-
+Application Description
 To Create a console application to perform word count for a given text file.
 
 Application Overview:
