@@ -1,15 +1,16 @@
 Application Description: 
+
 To Create a console application to perform frequency dictionary for a given text file.
 
 Application Overview:
 
-1.Input File - this is a text file (*.txt) containing words separated by spaces and/or new line characters. the content of this source file is expected to be encoded in Windows-1252 format.
+1. Input File - this is a text file (*.txt) containing words separated by spaces and/or new line characters. the content of this source file is expected to be encoded in Windows-1252 format.
 
-2.Word Processing - Once the data is identified, the process starts interpretting the occurrence of each word identified and is stored in a dictionary as a key value pair. Word followed by its occurrence count.
+2. Word Processing - Once the data is identified, the process starts interpretting the occurrence of each word identified and is stored in a dictionary as a key value pair. Word followed by its occurrence count.
 
-3.Sorting - Once the counting of words is completed, we then sort the collection in the descending order.
+3. Sorting - Once the counting of words is completed, we then sort the collection in the descending order.
 
-4.OutputFile - the results are then saved to the given output file (*.txt) in the encoded windows 1252 format.
+4. OutputFile - the results are then saved to the given output file (*.txt) in the encoded windows 1252 format.
 
 5. Error Handling - to ensure the arguments provided are valid and that the file and the file path is valid. to capture errors.
 
