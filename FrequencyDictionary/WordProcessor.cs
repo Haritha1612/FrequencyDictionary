@@ -9,6 +9,11 @@ namespace FrequencyDictionary
 {
     public class WordProcessor
     {
+        /// <summary>
+        /// Method to process word counting
+        /// </summary>
+        /// <param name="text">string or the data on which the word count is to be performed.</param>
+        /// <returns>returns a collection of words with its frequency in the given text.</returns>
         public static Dictionary<string, int> ProcessWordsFrequency(string text)
         {
             var wordCounter = new ConcurrentDictionary<string, int>(StringComparer.OrdinalIgnoreCase); //considering case insensitive
